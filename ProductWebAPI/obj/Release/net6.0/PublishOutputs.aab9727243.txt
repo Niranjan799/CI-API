@@ -1,0 +1,13 @@
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\ProductWebAPI.exe
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\ProductWebAPI.dll
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\ProductWebAPI.deps.json
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\ProductWebAPI.runtimeconfig.json
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\ProductWebAPI.pdb
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VMAdmin\Desktop\Day3\web-api\ProductWebAPI\ProductWebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
